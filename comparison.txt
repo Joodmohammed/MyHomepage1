@@ -1,5 +1,4 @@
-git diff 622f6e6616fcdc73bf3206ab67599d9b6f1989ef 4a01f1740f5c6de5893fa581b0e5abe930182d82
-gif diff 622f6e6616fcdc73bf3206ab67599d9b6f1989ef feb4e8ea9a9ba517d9573a19fc7122526c1a687a
+
 Comparison between initial commit and feature implementation:
 - Added navigation bar with links.
 
